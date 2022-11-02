@@ -1,7 +1,5 @@
 ### Hi there! i'm Willian Lattuca
 
-- 🌱 I’m currently learning python
-
 <div align="center">
   <a href="https://github.com/willianlattuca">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=willianlattuca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
